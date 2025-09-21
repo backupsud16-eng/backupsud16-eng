@@ -160,7 +160,7 @@
 <li>Collaborated with student bodies to pilot policy changes, influencing institute-level initiatives improving accountability.</li>
 <li>Conducted workshops and seminars on ethical decision-making, reaching 300+ students across departments.</li>
 <li>Liaised with administration to streamline complaint resolution processes, reducing response time for student grievances.</li>
-<li>Initiated student-led peer monitoring programs to promote ethical practices on campus.</li>
+<!-- <li>Initiated student-led peer monitoring programs to promote ethical practices on campus.</li> -->
 </ul>
 </div>
 </td>
