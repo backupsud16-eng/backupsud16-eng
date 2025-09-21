@@ -3,7 +3,7 @@
   <img src="https://drive.google.com/uc?id=1gBjqMlGezu8GPg3Vg48ka68OuREd4PUu" alt="Portfolio Dashboard Banner" width="100%" style="border-radius:12px; box-shadow:0 6px 20px rgba(0,0,0,0.15);"/>
 </p>
 
-# Hi 👋, I'm Sudhanshu Raj  
+# Hi 👋, I'm Sudhanshu Raj.  
 
 <p align="center" style="font-size:18px; line-height:1.6;">
 🚀 Product Management Enthusiast &nbsp;&nbsp;|&nbsp;&nbsp; 📊 Data-Driven Decision Maker
