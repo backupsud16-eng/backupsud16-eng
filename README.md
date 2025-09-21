@@ -22,7 +22,7 @@
 ---
 
 ## 👨‍💼 About Me
-- 🎓 Final year **B.Tech, Indian Institute of Technology Guwahati**  
+- 🎓 Final year **B.Tech undergrad, Indian Institute of Technology Guwahati**  
 - 💼 Product & Analytics Intern (Founder’s Office) — **ZecData Technology**  
 - 🎭 **Head of Public Relations** (Alcheringa) — led 300+ people; scaled events to **140K+ attendees**  
 - 📊 Passionate about **product strategy, market research, UX, and data-driven decision-making**  
