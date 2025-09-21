@@ -98,7 +98,7 @@
 <tr>
 <td width="50%" valign="top">
 <div style="border-radius:12px; overflow:hidden; box-shadow:0 4px 14px rgba(0,0,0,0.1); background:#fff; transition:0.3s;" onmouseover="this.style.transform='scale(1.03)';" onmouseout="this.style.transform='scale(1)';">
-<img src="https://cdn-icons-png.flaticon.com/512/2966/2966484.png" width="100%"/>
+<img src="https://cdn.mos.cms.futurecdn.net/v2/t:0,l:437,cw:1125,ch:1125,q:80,w:1125/KGZVRurkMGfpk7P7Cm87Wh.jpg" width="100%"/>
 <h4 style="padding:10px;"><a href="https://drive.google.com/file/d/1OCszixu3PFsyiL4WswAZawpHangUhczG/view?usp=sharing" style="color:#6a1b9a; text-decoration:none;">FitStreak — Fitness & Habit Product</a></h4>
 <p style="padding:0 10px;"><strong>Focus:</strong> Designed habit-forming engagement loops (streaks, teams, daily goals).</p>
 <p style="padding:0 10px 10px;"><strong>Impact:</strong> Built mechanics to increase DAUs & long-term retention.</p>
